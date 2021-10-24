@@ -4,6 +4,7 @@
     src: url( /fonts/AmaticSC-Regular.ttf );
 }
 
+
 header {
     color: red;
     font-family: 'Roboto', sans-serif;
@@ -23,7 +24,9 @@ form {
     text-align: right;  
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     font-size: 15mm;
+    text-decoration-line: overline;
     color: yellow;
+  
 }
 article {
     text-align: center;
@@ -34,6 +37,7 @@ article {
 span {
     color: cornflowerblue;
     font-style: oblique;
+    text-decoration: line-through;
     font-size: 4em;
 }
 p {
