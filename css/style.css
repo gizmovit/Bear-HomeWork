@@ -1,15 +1,50 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto:ital,wght@1,100&display=swap');
+@font-face{
+    font-family: 'Rampart One';
+    src: url( /fonts/AmaticSC-Regular.ttf );
+}
+
+header {
+    color: red;
+    font-family: 'Roboto', sans-serif;
+    font-size: 60px;
+    
+}
 div {
     text-align: center;
+    font-family: 'Pacifico', cursive;
+    font-size: 8vh;
+    color: salmon;
+    
+
+    
 }
 form {
-    text-align: right;
+    text-align: right;  
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 15mm;
+    color: yellow;
 }
 article {
     text-align: center;
+    font-family: 'Press Start 2P', cursive;
+    font-size: 2rem;
+    color: green;
+}
+span {
+    color: cornflowerblue;
+    font-style: oblique;
+    font-size: 4em;
 }
 p {
     text-align: center;
+    font-family: 'Rubik Beastly', cursive;
+    font-size: 60px;
+    color: blue;
 }
 ul {
     text-align: right;
+    font-family: 'Rampart One';
+    font-size: 40px;
+    color: darkorchid;
 }
